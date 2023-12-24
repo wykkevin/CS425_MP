@@ -1,0 +1,54 @@
+[2022-11-30 21:13:19] [INFO   ] Current ip is Yuankais-MacBook-Air.local 
+[2022-11-30 21:13:21] [FINE   ] reconstructing Metadata 
+[2022-11-30 21:13:22] [FINE   ] Client sends {"command":"START_TRAINING"} to Yuankais-MacBook-Air.local/127.0.0.1 at 8016 
+[2022-11-30 21:13:22] [FINE   ] ML server input from [localhost]: {"command":"START_TRAINING"} 
+[2022-11-30 21:13:22] [FINE   ] Client sends {"clientIp":"localhost","command":"WORKER_START_TRAINING"} to Yuankais-MacBook-Air.local/127.0.0.1 at 8016 
+[2022-11-30 21:13:22] [FINE   ] ML server input from [localhost]: {"clientIp":"localhost","command":"WORKER_START_TRAINING"} 
+[2022-11-30 21:13:22] [INFO   ] Worker starts to train models 
+[2022-11-30 21:13:22] [INFO   ] start runMLScript python3 ./src/ml/train_alexnet.py 
+[2022-11-30 21:13:24] [FINE   ] reconstructing Metadata 
+[2022-11-30 21:13:26] [INFO   ] start runMLScript python3 ./src/ml/train_resnet.py 
+[2022-11-30 21:13:27] [FINE   ] reconstructing Metadata 
+[2022-11-30 21:13:28] [INFO   ] start runMLScript cp ./LocalDir/model_classes.txt ./Db/model_classes.txt 
+[2022-11-30 21:13:28] [FINE   ] Client sends {"clientIp":"localhost","command":"TRAINING_FINISHED"} to Yuankais-MacBook-Air.local/127.0.0.1 at 8016 
+[2022-11-30 21:13:28] [FINE   ] ML server input from [localhost]: {"clientIp":"localhost","command":"TRAINING_FINISHED"} 
+[2022-11-30 21:13:28] [INFO   ] Training is finished 
+[2022-11-30 21:13:28] [FINE   ] Client sends {"command":"ALL_TRAINING_FINISHED"} to localhost/127.0.0.1 at 8016 
+[2022-11-30 21:13:28] [INFO   ] startThreadForAssignJobToWorkers 
+[2022-11-30 21:13:28] [FINE   ] ML server input from [localhost]: {"command":"ALL_TRAINING_FINISHED"} 
+[2022-11-30 21:13:28] [INFO   ] Checking has more task alex 0 res 0 Free workers are [localhost] 
+[2022-11-30 21:13:28] [INFO   ] Alex in progress 0 Res in progress 0 
+[2022-11-30 21:13:28] [INFO   ] WorkerQueryPair is null:null 
+[2022-11-30 21:13:30] [FINE   ] reconstructing Metadata 
+[2022-11-30 21:13:33] [FINE   ] reconstructing Metadata 
+[2022-11-30 21:13:36] [FINE   ] reconstructing Metadata 
+[2022-11-30 21:13:39] [FINE   ] reconstructing Metadata 
+[2022-11-30 21:13:42] [FINE   ] reconstructing Metadata 
+[2022-11-30 21:13:45] [FINE   ] reconstructing Metadata 
+[2022-11-30 21:13:48] [FINE   ] reconstructing Metadata 
+[2022-11-30 21:13:51] [FINE   ] reconstructing Metadata 
+[2022-11-30 21:13:54] [FINE   ] reconstructing Metadata 
+[2022-11-30 21:13:57] [FINE   ] reconstructing Metadata 
+[2022-11-30 21:14:00] [FINE   ] reconstructing Metadata 
+[2022-11-30 21:14:03] [FINE   ] reconstructing Metadata 
+[2022-11-30 21:14:06] [FINE   ] reconstructing Metadata 
+[2022-11-30 21:14:09] [FINE   ] reconstructing Metadata 
+[2022-11-30 21:14:12] [FINE   ] reconstructing Metadata 
+[2022-11-30 21:14:15] [FINE   ] reconstructing Metadata 
+[2022-11-30 21:14:18] [FINE   ] reconstructing Metadata 
+[2022-11-30 21:14:21] [FINE   ] reconstructing Metadata 
+[2022-11-30 21:14:24] [FINE   ] reconstructing Metadata 
+[2022-11-30 21:14:27] [FINE   ] reconstructing Metadata 
+[2022-11-30 21:14:30] [FINE   ] reconstructing Metadata 
+[2022-11-30 21:14:33] [FINE   ] reconstructing Metadata 
+[2022-11-30 21:14:36] [FINE   ] reconstructing Metadata 
+[2022-11-30 21:14:39] [FINE   ] reconstructing Metadata 
+[2022-11-30 21:14:42] [FINE   ] reconstructing Metadata 
+[2022-11-30 21:14:46] [FINE   ] reconstructing Metadata 
+[2022-11-30 21:14:49] [FINE   ] reconstructing Metadata 
+[2022-11-30 21:14:52] [FINE   ] reconstructing Metadata 
+[2022-11-30 21:14:55] [FINE   ] reconstructing Metadata 
+[2022-11-30 21:14:58] [FINE   ] reconstructing Metadata 
+[2022-11-30 21:15:01] [FINE   ] reconstructing Metadata 
+[2022-11-30 21:15:04] [FINE   ] reconstructing Metadata 
+[2022-11-30 21:15:07] [FINE   ] reconstructing Metadata 

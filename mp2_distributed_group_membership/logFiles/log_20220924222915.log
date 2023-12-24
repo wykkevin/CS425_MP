@@ -1,0 +1,11 @@
+[2022-09-24 22:29:18] [INFO   ] current ip is Yuankais-MacBook-Air.local/192.168.10.42 
+[2022-09-24 22:29:21] [INFO   ] get routed addresses 172.22.158.15@1664076399913,172.22.94.15@1664076416212, 
+[2022-09-24 22:29:21] [INFO   ] Parse member list from command 172.22.158.15@1664076399913,172.22.94.15@1664076416212, 
+[2022-09-24 22:29:21] [INFO   ] Successfully joined 
+[2022-09-24 22:29:21] [INFO   ] Parse member list from command 172.22.158.15@1664076399913,172.22.94.15@1664076416212,192.168.10.42@1664076561088, 
+[2022-09-24 22:29:21] [INFO   ] Stop all ping threads 
+[2022-09-24 22:29:21] [INFO   ] Stop the thread to /172.22.158.15 
+[2022-09-24 22:29:21] [INFO   ] Stop the thread to /172.22.94.15 
+[2022-09-24 22:29:21] [INFO   ] Stop the thread to /192.168.10.42 
+[2022-09-24 22:29:21] [INFO   ] Starting to ping 172.22.158.15 
+[2022-09-24 22:29:21] [INFO   ] Starting to ping 172.22.94.15 

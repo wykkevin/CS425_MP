@@ -1,0 +1,16 @@
+[2022-11-28 22:58:32] [INFO   ] Current ip is Yuankais-MacBook-Air.local 
+[2022-11-28 22:58:34] [FINE   ] reconstructing Metadata 
+[2022-11-28 22:58:34] [INFO   ] start runMLScript python3 ./src/ml/train_alexnet.py 
+[2022-11-28 22:58:37] [FINE   ] reconstructing Metadata 
+[2022-11-28 22:58:39] [INFO   ] start runMLScript python3 ./src/ml/train_resnet.py 
+[2022-11-28 22:58:40] [FINE   ] reconstructing Metadata 
+[2022-11-28 22:58:41] [INFO   ] start runMLScript cp ./LocalDir/model_classes.txt ./Db/model_classes.txt 
+[2022-11-28 22:58:43] [FINE   ] reconstructing Metadata 
+[2022-11-28 22:58:46] [FINE   ] reconstructing Metadata 
+[2022-11-28 22:58:49] [FINE   ] reconstructing Metadata 
+[2022-11-28 22:58:52] [FINE   ] reconstructing Metadata 
+[2022-11-28 22:58:55] [FINE   ] reconstructing Metadata 
+[2022-11-28 22:58:58] [FINE   ] reconstructing Metadata 
+[2022-11-28 22:59:01] [FINE   ] reconstructing Metadata 
+[2022-11-28 22:59:04] [FINE   ] reconstructing Metadata 
+[2022-11-28 22:59:07] [FINE   ] reconstructing Metadata 

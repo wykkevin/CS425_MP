@@ -1,0 +1,50 @@
+[2022-11-30 23:09:02] [INFO   ] Current ip is Yuankais-MacBook-Air.local 
+[2022-11-30 23:14:09] [FINE   ] reconstructing Metadata 
+[2022-11-30 23:14:12] [FINE   ] reconstructing Metadata 
+[2022-11-30 23:14:13] [FINE   ] Client sends {"command":"START_TRAINING"} to Yuankais-MacBook-Air.local/192.168.10.42 at 8016 
+[2022-11-30 23:14:13] [FINE   ] ML server input from [192.168.10.42]: {"command":"START_TRAINING"} 
+[2022-11-30 23:14:13] [FINE   ] Client sends {"clientIp":"192.168.10.42","command":"WORKER_START_TRAINING"} to Yuankais-MacBook-Air.local/192.168.10.42 at 8016 
+[2022-11-30 23:14:13] [FINE   ] ML server input from [192.168.10.42]: {"clientIp":"192.168.10.42","command":"WORKER_START_TRAINING"} 
+[2022-11-30 23:14:13] [INFO   ] Worker starts to train models 
+[2022-11-30 23:14:13] [INFO   ] start runMLScript python3 ./src/ml/train_alexnet.py 
+[2022-11-30 23:14:15] [FINE   ] reconstructing Metadata 
+[2022-11-30 23:14:18] [INFO   ] start runMLScript python3 ./src/ml/train_resnet.py 
+[2022-11-30 23:14:18] [FINE   ] reconstructing Metadata 
+[2022-11-30 23:14:20] [INFO   ] start runMLScript cp ./LocalDir/model_classes.txt ./Db/model_classes.txt 
+[2022-11-30 23:14:20] [FINE   ] Client sends {"clientIp":"192.168.10.42","command":"TRAINING_FINISHED"} to Yuankais-MacBook-Air.local/192.168.10.42 at 8016 
+[2022-11-30 23:14:20] [FINE   ] ML server input from [192.168.10.42]: {"clientIp":"192.168.10.42","command":"TRAINING_FINISHED"} 
+[2022-11-30 23:14:20] [INFO   ] Training is finished 
+[2022-11-30 23:14:20] [FINE   ] Client sends {"command":"ALL_TRAINING_FINISHED"} to /192.168.10.42 at 8016 
+[2022-11-30 23:14:20] [INFO   ] startThreadForAssignJobToWorkers 
+[2022-11-30 23:14:20] [FINE   ] ML server input from [192.168.10.42]: {"command":"ALL_TRAINING_FINISHED"} 
+[2022-11-30 23:14:20] [INFO   ] Checking has more task alex 0 res 0 Free workers are [192.168.10.42] 
+[2022-11-30 23:14:20] [INFO   ] Alex in progress 0 Res in progress 0 
+[2022-11-30 23:14:20] [INFO   ] WorkerQueryPair is null:null 
+[2022-11-30 23:14:21] [FINE   ] reconstructing Metadata 
+[2022-11-30 23:14:24] [FINE   ] reconstructing Metadata 
+[2022-11-30 23:14:25] [INFO   ] Checking has more task alex 0 res 0 Free workers are [192.168.10.42] 
+[2022-11-30 23:14:25] [INFO   ] Alex in progress 0 Res in progress 0 
+[2022-11-30 23:14:25] [INFO   ] WorkerQueryPair is null:null 
+[2022-11-30 23:14:27] [FINE   ] reconstructing Metadata 
+[2022-11-30 23:14:30] [INFO   ] Checking has more task alex 0 res 0 Free workers are [192.168.10.42] 
+[2022-11-30 23:14:30] [INFO   ] Alex in progress 0 Res in progress 0 
+[2022-11-30 23:14:30] [INFO   ] WorkerQueryPair is null:null 
+[2022-11-30 23:14:30] [FINE   ] reconstructing Metadata 
+[2022-11-30 23:14:33] [FINE   ] reconstructing Metadata 
+[2022-11-30 23:14:35] [INFO   ] Checking has more task alex 0 res 0 Free workers are [192.168.10.42] 
+[2022-11-30 23:14:35] [INFO   ] Alex in progress 0 Res in progress 0 
+[2022-11-30 23:14:35] [INFO   ] WorkerQueryPair is null:null 
+[2022-11-30 23:14:36] [FINE   ] reconstructing Metadata 
+[2022-11-30 23:14:40] [FINE   ] reconstructing Metadata 
+[2022-11-30 23:14:40] [INFO   ] Checking has more task alex 0 res 0 Free workers are [192.168.10.42] 
+[2022-11-30 23:14:40] [INFO   ] Alex in progress 0 Res in progress 0 
+[2022-11-30 23:14:40] [INFO   ] WorkerQueryPair is null:null 
+[2022-11-30 23:14:43] [FINE   ] reconstructing Metadata 
+[2022-11-30 23:14:45] [INFO   ] Checking has more task alex 0 res 0 Free workers are [192.168.10.42] 
+[2022-11-30 23:14:45] [INFO   ] Alex in progress 0 Res in progress 0 
+[2022-11-30 23:14:45] [INFO   ] WorkerQueryPair is null:null 
+[2022-11-30 23:14:46] [FINE   ] reconstructing Metadata 
+[2022-11-30 23:14:49] [FINE   ] reconstructing Metadata 
+[2022-11-30 23:14:50] [INFO   ] Checking has more task alex 0 res 0 Free workers are [192.168.10.42] 
+[2022-11-30 23:14:50] [INFO   ] Alex in progress 0 Res in progress 0 
+[2022-11-30 23:14:50] [INFO   ] WorkerQueryPair is null:null 

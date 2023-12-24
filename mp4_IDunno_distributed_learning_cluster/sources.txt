@@ -1,0 +1,15 @@
+./src/sdfs/GrepQueryHandler.java
+./src/sdfs/JsonSerializable.java
+./src/sdfs/networking/ConnectionTopology.java
+./src/sdfs/networking/MasterInfo.java
+./src/sdfs/networking/CommandParserUtil.java
+./src/sdfs/networking/GroupMember.java
+./src/sdfs/networking/UdpServent.java
+./src/sdfs/networking/MessageType.java
+./src/sdfs/UserInputCommandType.java
+./src/sdfs/SdfsFileMetadata.java
+./src/sdfs/Main.java
+./src/sdfs/UserInputCommand.java
+./src/sdfs/WorkerQueryPair.java
+./src/ml/MachineLearningUtil.java
+./src/ml/MLQueryData.java
