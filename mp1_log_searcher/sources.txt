@@ -1,0 +1,7 @@
+./src/SocketClient.java
+./src/LogResult.java
+./src/LogSearcher.java
+./src/InputProcessor.java
+./src/SocketMultipleServer.java
+./src/LogGenerator.java
+./src/SocketServer.java
